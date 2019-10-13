@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">Diplomado Kotlin</string>
+    <string name="name">Bernardino Reyes Jimenez</string>
+    <string name="imagen"> Diplomado Kotlin</string>
+    <string name="aboutme">Saludos, Soy Bernardino Reyes Jimenez.
+\n\nTengo 28 Años de Edad.
+\n\nSoy Analista Programador, Actualmente en Asp.Net, Oracle Form y Report 12C.
+\n\nMi Intencion en este Diplomado es aprender todo lo relacionado con Kotlin y utilizar lo aprendido para enseñarlo a alguien mas y ejercerlo en lo laboral.
+\n\nEsperando que este Diplomado sea de gran utilidad para todos, se despide.
+\n\nBernardino Reyes Jimenez.</string>
+
+<string name="apodo">Escribir su Apodo</string>
+<string name="verificar">Apodo</string>
+
+</resources>
